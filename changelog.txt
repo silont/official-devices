@@ -1,0 +1,10 @@
+- Rebase from linux mainline 5.17.1
+- Overclock CPU to 3,9 GHz
+- Overclock GPU to 1,78 GHz
+- Add Super Amoled 2k display
+- Add drone camera pop up
+- Add Liquid Cooler for prevent heat caused by OC
+- Merge Pixel thermal (Now device can run on maximum frequency without stutter)
+- Merge GPU drivers from ROG Phone (To give max performance and gaming phone experience)
+- Add 144fps Poobji as default
+- Other Improvement that make your phone like Expensive Gaming Phone
